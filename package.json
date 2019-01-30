@@ -1,5 +1,5 @@
 {
-  "name": "react-native-dialogs",
+  "name": "@tuofeng/react-native-dialogs",
   "version": "1.0.2",
   "description": "React Native wrappers for https://github.com/afollestad/material-dialogs ",
   "main": "index.js",
